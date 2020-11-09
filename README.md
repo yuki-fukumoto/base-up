@@ -12,3 +12,8 @@
  不特定多数のコメントが可能なため、悪質なコメントができてしまう。
  動作方法や改善点がうまく伝わらない可能性がある。
  # 開発環境
+フロントエンド(javascript, jQuery, HTML/CSS, HAML, Sass)
+バックエンド(Ruby on Rails, 外部 API)
+テスト(Rspec)
+web サーバ(nginx, unicorn)
+データベース(MySQL)
