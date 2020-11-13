@@ -5,9 +5,11 @@
  また、その内容についてセラピストがアドバイスできるようにしていきたいです。
  
  # 機能
-https://gyazo.com/c67d624411735a159b237d3089f82060
+![c67d624411735a159b237d3089f82060](https://user-images.githubusercontent.com/65587782/99015298-02f80f00-2598-11eb-9edd-0cb588528886.gif)
 
-https://gyazo.com/f1c217931fe4b08dddb06b52ee6a4d37
+
+![f1c217931fe4b08dddb06b52ee6a4d37](https://user-images.githubusercontent.com/65587782/99015329-16a37580-2598-11eb-8aef-4aeaa79c82b2.gif)
+
  # 今後の改善点
  現時点では潰れて表示されてしまうため、投稿画像のサイズに合わせて表示されるように変更していきます。
  画像を複数あげれるように改良していきます。
